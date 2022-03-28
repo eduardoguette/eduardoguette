@@ -4,12 +4,13 @@ My name is Jhoan Eduardo Guette, i'm Engineer Civil and i loved the technology a
 
 My tools favorite for created amazing projects is:
 
-👉🏽 HTML
-👉🏽 CSS 
-👉🏽 Tailwind and Boostrap
-👉🏽 React 
-👉🏽 React Router
-👉🏽 Styled Component 
-👉🏽 Redux
-👉🏽 React Query
-👉🏽 Sass
+- HTML <br>
+- CSS <br>
+- JavaScript 🤘🏾
+- Tailwind and Boostrap <br>
+- React 🫶🏾 <br> 
+- React Router<br>
+- Styled Component <br>
+- Redux<br>
+- React Query<br>
+- Sass<br>
