@@ -7,7 +7,7 @@ My tools favorite for created amazing projects is:
 - HTML <br>
 - CSS <br>
 - JavaScript 🤘🏾
-- Tailwind and Boostrap <br>
+- Tailwind and Bootstrap <br>
 - React 🫶🏾 <br> 
 - React Router<br>
 - Styled Component <br>
