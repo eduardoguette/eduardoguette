@@ -1,5 +1,3 @@
-
-
 <div style="display: grid" align="center">
  <img style="display: block" src="https://user-images.githubusercontent.com/61714979/160908838-f7fb8c08-b43b-4448-a33c-dd593fef8147.png" alt="Eduardo Guette Image" />
   <div style="display:flex;align-items:center">
