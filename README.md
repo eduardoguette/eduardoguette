@@ -10,14 +10,9 @@
       <img src="https://user-images.githubusercontent.com/61714979/160914768-6956ce5c-a2fd-46a2-890d-755ea9dbff4a.png" height="40"/>
     </a> 
   </div>
- <h3>¡Hello everyone! 👋🏾😀</h3>
+ <h3 style="margin:0">¡Hello everyone! 👋🏾😀</h3>
  <p align="center">My name is Jhoan Eduardo Guette, i'm Civil Engineer and loved the technology and programming.</p>
 </div>
-
-</br>
-</br>
-</br>
-</br>
 
 My tools favorite for created amazing projects is:
 
