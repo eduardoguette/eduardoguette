@@ -1,35 +1,15 @@
 
 
 <div style="display: grid" align="center">
-  <table style="border: none">
-    <tbody style="border: none">
-      <tr style="border: none">
-        <td style="border: none">
-          <table>
-            <tbody>
-              <tr style="background:transparent">
-                <td style="border: none">
-                  <a href="http://" target="_blank" rel="noopener noreferrer">
-                    <img src="https://user-images.githubusercontent.com/61714979/160909233-7197edf0-31aa-4475-ae17-a45047d8b76d.png" alt="Eduardo Guette Image" />
-                  </a>
-                </td>
-              </tr>
-              <tr style="background:transparent">
-                <td style="border: none; background:transparent">
-                  <a href="http://" target="_blank" rel="noopener noreferrer">
-                    <img src="https://user-images.githubusercontent.com/61714979/160912537-950713dc-79be-4b3c-8ded-28a0a3d62e88.png" alt="Eduardo Guette Image" height="20" />
-                  </a>
-                </td> 
-              </tr>
-            </tbody>
-          </table>
-        </td>
-        <td style="border: none">
-          <img style="display: block" src="https://user-images.githubusercontent.com/61714979/160908838-f7fb8c08-b43b-4448-a33c-dd593fef8147.png" alt="Eduardo Guette Image" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
+ <img style="display: block" src="https://user-images.githubusercontent.com/61714979/160908838-f7fb8c08-b43b-4448-a33c-dd593fef8147.png" alt="Eduardo Guette Image" />
+  <div style="display:flex;align-items:center">
+    <a href="https://www.linkedin.com/in/eduardo-guette/">
+      <img src="https://user-images.githubusercontent.com/61714979/160914574-e4ea5a6d-f4be-4cfd-bd49-8859ca5c5994.png" height="40"/>
+    </a>
+    <a href="https://twitter.com/eduardoguette">
+      <img src="https://user-images.githubusercontent.com/61714979/160914768-6956ce5c-a2fd-46a2-890d-755ea9dbff4a.png" height="40"/>
+    </a> 
+  </div>
 </div>
 
 
