@@ -15,6 +15,6 @@
 ### Skills
 * HTML
 * CSS
-* JavaScript 🤘🏾
+* JavaScript
 * Tailwind and Bootstrap
 * React
