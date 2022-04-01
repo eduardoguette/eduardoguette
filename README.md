@@ -12,10 +12,9 @@
  <p align="center">My name is Jhoan Eduardo Guette, i'm Civil Engineer and loved the technology and programming.</p>
 </div>
 
-My tools favorite for created amazing projects is:
-
-- HTML <br>
-- CSS <br>
-- JavaScript 🤘🏾
-- Tailwind and Bootstrap <br>
-- React <br>
+### Skills
+* HTML
+* CSS
+* JavaScript 🤘🏾
+* Tailwind and Bootstrap
+* React
